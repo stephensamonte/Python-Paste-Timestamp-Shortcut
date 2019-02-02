@@ -1,0 +1,1 @@
+# Python-Paste-Timestamp-Shortcut
