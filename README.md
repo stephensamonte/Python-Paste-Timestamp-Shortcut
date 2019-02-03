@@ -1,5 +1,6 @@
 # Python-Paste-Timestamp-Shortcut
 I typically write the date manually as part of titles. This program will automate the process for me. 
+I create a lot of files for classes, video projects, and personal ventures. I always date documents and project files in their name such as "2018.09.03 MyNotes" (year.month.day filename).
 
 This program will auto add the timestamp to where the cursor when a specific key binding is pressed. 
 
