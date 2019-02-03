@@ -1,4 +1,12 @@
 # Python-Paste-Timestamp-Shortcut
+I typically write the date manually as part of titles. This program will automate the process for me. 
+
+This program will auto add the timestamp to where the cursor when a specific key binding is pressed. 
+
+NOTE: This project is currently under development and is not complete. 
+
+## Latest Showcase Video: 
+[![Latest Showcase](https://img.youtube.com/vi/ttk-PSHRC1w/0.jpg)](https://www.youtube.com/watch?v=ttk-PSHRC1w)
 
 # How to use this program
 1. Download the executable to your computer's desktop.
@@ -21,7 +29,7 @@ This is a simple python program that can be edited with a simple text editor.
 "This will create a standalone executable in the dist directory of your script folder. Don’t worry, if the folder doesn’t exist it will create one automatically. Notice that we passed an argument “— onefile”. This argument tells PyInstaller to create only one file. If you don’t specify this, the libraries will be distributed as separate file along with the executable."
 
 # Journal 
-2019.02.02 Created script that types the current date. Created executable from the script. 
+2019.02.02 Created script that types the current date. [Showcase](https://www.youtube.com/watch?v=ttk-PSHRC1w&feature=youtu.be)
 
 
 # References
